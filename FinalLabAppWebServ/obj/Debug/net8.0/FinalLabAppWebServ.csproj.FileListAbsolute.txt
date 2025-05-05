@@ -286,4 +286,5 @@ C:\Users\barre\Desktop\FinalLabAppWebServ\FinalLabAppWebServ\bin\Debug\net8.0\ru
 C:\Users\barre\Desktop\FinalLabAppWebServ\FinalLabAppWebServ\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\barre\Desktop\FinalLabAppWebServ\FinalLabAppWebServ\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\barre\Desktop\FinalLabAppWebServ\FinalLabAppWebServ\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\barre\Desktop\FinalLabAppWebServ\FinalLabAppWebServ\obj\Debug\net8.0\FinalLabAppWebServ.sourcelink.json
 C:\Users\barre\Desktop\FinalLabAppWebServ\FinalLabAppWebServ\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

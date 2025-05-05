@@ -1,13 +1,11 @@
-﻿using FinalLabAppWebServ.Entities;
-
-namespace FinalLabAppWebServ.Entities
+﻿namespace FinalLabAppWebServ.DAL.Entities
 {
     public class OrderDetails
     {
         public int OrderDetailId { get; set; }
         public string CustomerName { get; set; }
         public string CustomerDni { get; set; }
-        public  string CustomerEmail { get; set; }
+        public string CustomerEmail { get; set; }
         public string CustomerAddress { get; set; }
         public DateTime CustomerRegistrationDate { get; set; }
         public string ProductName { get; set; }

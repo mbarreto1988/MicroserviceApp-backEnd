@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinalLabAppWebServ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7518cae8a233c5cef374df49cb87c338aefa7cb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1152827dfaee4d56d6b20baf6e7b100065af9586")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinalLabAppWebServ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinalLabAppWebServ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

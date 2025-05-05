@@ -25,7 +25,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[FinalLabAppWebServ.Entities.Customers, FinalLabAppWebServ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[FinalLabAppWebServ.DAL.Entities.Customers, FinalLabAppWebServ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -45,13 +45,13 @@
     "Parameters": [
       {
         "Name": "customer",
-        "Type": "FinalLabAppWebServ.Entities.Customers",
+        "Type": "FinalLabAppWebServ.DAL.Entities.Customers",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "FinalLabAppWebServ.Entities.Customers",
+        "Type": "FinalLabAppWebServ.DAL.Entities.Customers",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -77,7 +77,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "FinalLabAppWebServ.Entities.Customers",
+        "Type": "FinalLabAppWebServ.DAL.Entities.Customers",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -102,7 +102,7 @@
       },
       {
         "Name": "customer",
-        "Type": "FinalLabAppWebServ.Entities.Customers",
+        "Type": "FinalLabAppWebServ.DAL.Entities.Customers",
         "IsRequired": true
       }
     ],
@@ -134,7 +134,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[FinalLabAppWebServ.Entities.OrderDetails, FinalLabAppWebServ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[FinalLabAppWebServ.DAL.Entities.OrderDetails, FinalLabAppWebServ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -160,7 +160,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "FinalLabAppWebServ.Entities.OrderDetails",
+        "Type": "FinalLabAppWebServ.DAL.Entities.OrderDetails",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -180,7 +180,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[FinalLabAppWebServ.Entities.Order, FinalLabAppWebServ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[FinalLabAppWebServ.DAL.Entities.Order, FinalLabAppWebServ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -200,7 +200,7 @@
     "Parameters": [
       {
         "Name": "order",
-        "Type": "FinalLabAppWebServ.Entities.Order",
+        "Type": "FinalLabAppWebServ.DAL.Entities.Order",
         "IsRequired": true
       }
     ],
@@ -222,7 +222,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "FinalLabAppWebServ.Entities.Order",
+        "Type": "FinalLabAppWebServ.DAL.Entities.Order",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -258,7 +258,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[FinalLabAppWebServ.Entities.Products, FinalLabAppWebServ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[FinalLabAppWebServ.DAL.Entities.Products, FinalLabAppWebServ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -278,13 +278,13 @@
     "Parameters": [
       {
         "Name": "product",
-        "Type": "FinalLabAppWebServ.Entities.Products",
+        "Type": "FinalLabAppWebServ.DAL.Entities.Products",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "FinalLabAppWebServ.Entities.Products",
+        "Type": "FinalLabAppWebServ.DAL.Entities.Products",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -310,7 +310,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "FinalLabAppWebServ.Entities.Products",
+        "Type": "FinalLabAppWebServ.DAL.Entities.Products",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -335,7 +335,7 @@
       },
       {
         "Name": "product",
-        "Type": "FinalLabAppWebServ.Entities.Products",
+        "Type": "FinalLabAppWebServ.DAL.Entities.Products",
         "IsRequired": true
       }
     ],
@@ -367,7 +367,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[FinalLabAppWebServ.Entities.Register, FinalLabAppWebServ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[FinalLabAppWebServ.DAL.Entities.Register, FinalLabAppWebServ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -387,13 +387,13 @@
     "Parameters": [
       {
         "Name": "register",
-        "Type": "FinalLabAppWebServ.Entities.Register",
+        "Type": "FinalLabAppWebServ.DAL.Entities.Register",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "FinalLabAppWebServ.Entities.Register",
+        "Type": "FinalLabAppWebServ.DAL.Entities.Register",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -419,7 +419,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "FinalLabAppWebServ.Entities.Register",
+        "Type": "FinalLabAppWebServ.DAL.Entities.Register",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -444,7 +444,7 @@
       },
       {
         "Name": "register",
-        "Type": "FinalLabAppWebServ.Entities.Register",
+        "Type": "FinalLabAppWebServ.DAL.Entities.Register",
         "IsRequired": true
       }
     ],

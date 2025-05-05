@@ -1,5 +1,5 @@
-﻿using FinalLabAppWebServ.Context;
-using FinalLabAppWebServ.Entities;
+﻿using FinalLabAppWebServ.DAL.Context;
+using FinalLabAppWebServ.DAL.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace FinalLabAppWebServ.Business

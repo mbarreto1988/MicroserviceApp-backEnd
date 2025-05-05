@@ -1,7 +1,7 @@
-﻿using FinalLabAppWebServ.Entities;
+﻿using FinalLabAppWebServ.DAL.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace FinalLabAppWebServ.Context
+namespace FinalLabAppWebServ.DAL.Context
 {
     public class AppDbContext : DbContext
     {
@@ -45,6 +45,6 @@ namespace FinalLabAppWebServ.Context
                 .Property(od => od.ProductPrice)
                 .HasPrecision(18, 2);
         }
-        public DbSet<FinalLabAppWebServ.Entities.Register> Register { get; set; } = default!;
+        public DbSet<Register> Register { get; set; } = default!;
     }
 }

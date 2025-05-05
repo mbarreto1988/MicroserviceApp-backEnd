@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using FinalLabAppWebServ.Context;
-using FinalLabAppWebServ.Entities;
+using FinalLabAppWebServ.DAL.Context;
 using FinalLabAppWebServ.Business;
+using FinalLabAppWebServ.DAL.Entities;
 
 namespace FinalLabAppWebServ.Controllers
 {

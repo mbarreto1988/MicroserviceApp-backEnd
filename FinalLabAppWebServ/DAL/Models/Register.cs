@@ -1,4 +1,4 @@
-﻿namespace FinalLabAppWebServ.Entities
+﻿namespace FinalLabAppWebServ.DAL.Entities
 {
     public class Register
     {
